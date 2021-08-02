@@ -1,6 +1,12 @@
 # Compose Exercise: Basic Navigation
 Simple navigation between two screens with passing values using Jetpack Compose.
 
+## Dependencies
+```
+// Compose Navigation
+implementation "androidx.navigation:navigation-compose:2.4.0-alpha05"
+```
+
 <br />
 
 Home Screen | Dashboard Screen
